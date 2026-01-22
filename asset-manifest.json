@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image_generator_react_web_app/static/css/main.93bc706a.css",
+    "main.js": "/image_generator_react_web_app/static/js/main.ea5c46bc.js",
+    "index.html": "/image_generator_react_web_app/index.html",
+    "main.93bc706a.css.map": "/image_generator_react_web_app/static/css/main.93bc706a.css.map",
+    "main.ea5c46bc.js.map": "/image_generator_react_web_app/static/js/main.ea5c46bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93bc706a.css",
+    "static/js/main.ea5c46bc.js"
+  ]
+}
