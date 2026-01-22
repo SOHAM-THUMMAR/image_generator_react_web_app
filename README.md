@@ -1,1 +1,1 @@
-
+[![Deploy React to GitHub Pages](https://github.com/SOHAM-THUMMAR/image_generator_react_web_app/actions/workflows/deploy.yml/badge.svg)](https://github.com/SOHAM-THUMMAR/image_generator_react_web_app/actions/workflows/deploy.yml)
