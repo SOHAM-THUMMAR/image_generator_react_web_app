@@ -3,6 +3,7 @@ import { darkTheme } from "./utils/theme";
 import { Home } from "./pages/home";
 import { GeneratePost } from "./pages/generatePost";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { NavBar } from "./components/navBar";
 
 const Container = styled.div`
   width: 100%;
@@ -30,6 +31,7 @@ export function App() {
       <Container>
         <Wrapper>
           <BrowserRouter>
+            <NavBar />
             <Routes>
               <Route path="/" element={<Home />} exact />
               <Route path="/post" element={<GeneratePost />} exact />
